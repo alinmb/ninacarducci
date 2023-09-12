@@ -55,13 +55,6 @@ body {
   width: 100%;
   height: auto;
 }
-@media all and (max-width: 1000px) {
-  #about img {
-    width: 250px;
-    height: 250px;
-  }
-}
-
 .picture.left::before {
   content: " ";
   background-color: #e5975f;
